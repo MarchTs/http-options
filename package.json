@@ -1,0 +1,22 @@
+{
+    "name": "http-options",
+    "version": "1.0.0",
+    "description": "http options",
+    "main": "http-options.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/MarchTs/http-options.git"
+    },
+    "keywords": [
+        "http-options"
+    ],
+    "author": "Thanapat Saisoontornwattana",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/MarchTs/http-options/issues"
+    },
+    "homepage": "https://github.com/MarchTs/http-options#readme"
+}
