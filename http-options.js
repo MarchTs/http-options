@@ -6,6 +6,10 @@ class HttpOptions {
             headers: { "Content-Type": "application/json" }
         };
     }
+    addPort(port) {
+        this.option.port = port;
+        return this;
+    }
     addUserID(userID) {
         this.option.headers = {
             ...this.option.headers,
