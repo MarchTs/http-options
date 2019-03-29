@@ -1,5 +1,5 @@
 {
-    "name": "http-options",
+    "name": "@march_ts/http-option",
     "version": "1.0.1",
     "description": "http options",
     "main": "http-options.js",
